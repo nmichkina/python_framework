@@ -66,6 +66,8 @@ class TestCar:
         @Steps: start engine
         Assert: "already started" message received
         """
+        new_car = self.new_car
+        new_car.start_engine()
         new_car.start_engine()
         captured = capsys.readouterr()
         assert captured.out == "Engine is already running."
