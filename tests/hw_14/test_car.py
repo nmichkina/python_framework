@@ -14,7 +14,7 @@ class TestCar:
 
     def setup_method(self):
         print('Test setup')
-        self.new_car = Car('KIA', 'Sportage')
+        self.new_car = Car('KIA', 'Sportage ')
 
     def test_change_model(self):
         """
