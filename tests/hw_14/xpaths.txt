@@ -1,0 +1,41 @@
+https://lms.ithillel.ua/groups/646c7802e3071359d97a61b0/homeworks/6525159a8062d317ba97b105
+1. xpath: //span[contains(text(),'Back to homework')]
+2. xpath: //body[1]/app-page[1]/header[1]/nav[1]/app-header[1]/div[1]/a[1]/svg[1]/path[2]
+3. xpath://body[1]/app-page[1]/header[1]/nav[1]/app-header[1]/ul[1]/li[1]/button[1]/svg[1]/path[1]
+4. xpath://body[1]/app-page[1]/header[1]/nav[1]/app-header[1]/ul[1]/li[2]/button[1]/svg[1]/path[1]
+5. xpath://app-header/ul[1]/li[3]/button[1]/app-user-photo-message[1]/div[1]
+6. xpath://body/app-page[1]/div[1]/div[1]/div[1]/main[1]/app-group-page[1]/aside[1]/section[1]/nav[1]/app-group-panel[1]/div[1]/div[1]/button[1]
+7. xpath://body/app-page[1]/div[1]/div[1]/div[1]/main[1]/app-group-page[1]/aside[1]/app-rating-widget[1]/div[1]/div[1]/button[1]/*[1]
+8. xpath://span[contains(text(),'13 points to 9-th place')] 
+9. xpath://span[contains(text(),'10/14')]
+10. xpath://app-widget-header/ul[1]/li[3]/span[2]/span[1]/a[3]/span[1]
+11. xpath: //span[contains(text(),'Claimed grade in your diploma')]
+12. xpath: //span[contains(text(),'15 points to Very Good')]
+13. xpath: //app-widget-header/div[1]/span[1]/span[1]
+14. xpath: //app-widget-header/div[1]/span[1]
+15. xpath: //span[contains(text(),'HW assessment (retakes, deadlines)')]
+16. xpath: //button[contains(text(),'Submit homework')]
+17. xpath://body/app-page[1]/div[1]/div[1]/footer[1]/app-footer[1]/div[1]/button[1]/*[1]
+18. xpath: //a[contains(text(),'Ruslan Odynokyi')]
+19. xpath: //span[contains(text(),'Leave a reaction')]
+20. xpath: //a[@class='menu-aside__link menu-aside__link--store ng-tns-c141-1']
+21. xpath: //app-grade-badge[@class='homework__info-header-title-labels ng-tns-c231-2 badge-default ng-star-inserted']
+CSS: .homework__info-header-title-labels.ng-tns-c231-2.badge-default.ng-star-inserted
+22. xpath: //div[@class='student-statistic__rating student-statistic__rating--success ng-star-inserted']
+CSS: .student-statistic__rating.student-statistic__rating--success.ng-star-inserted
+23. xpath: //div[@class='student-statistic__rating student-statistic__rating--danger student-statistic__rating--gpa ng-star-inserted']
+CSS: .student-statistic__rating.student-statistic__rating--danger.student-statistic__rating--gpa.ng-star-inserted
+24. xpath: //a[normalize-space()='https://topswagcode.com/xpath/']
+CSS: a[href='https://topswagcode.com/xpath/']
+25. xpath: //span[@class='widget-header__certificate widget-header__certificate--good']
+CSS: .widget-header__certificate.widget-header__certificate--good
+26. xpath: //span[normalize-space()='15 points to Very Good']
+CSS: .widget-header__item-points.ng-star-inserted[shub-ins='1']
+27. xpath: //span[@class='widget-header__discount-text--bold']
+CSS: .widget-header__discount-text--bold
+28. xpath: //span[@class='interface-hints-title ng-star-inserted']
+CSS: .interface-hints-title.ng-star-inserted
+29. xpath: //a[@class='group-panel__link ng-star-inserted']
+CSS: .group-panel__link.ng-star-inserted[apptooltipposition='below']
+30. xpath: //time[@class='group-panel__date ng-star-inserted']
+CSS: .group-panel__date.ng-star-inserted
